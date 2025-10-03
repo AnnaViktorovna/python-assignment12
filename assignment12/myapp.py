@@ -8,7 +8,7 @@ df = px.data.gapminder(return_type='pandas')
 
 countries = df['country'].unique()
 
-# Dash
+
 app = dash.Dash(__name__)
 server = app.server
 
