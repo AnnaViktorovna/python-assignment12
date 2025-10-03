@@ -2,3 +2,6 @@ The differences between a static and an in teractive visualizations ate that a s
 have only a fixed forms that don't allow users filtering, zooming, select subset of information< no any manipulation with data.
 
 Dashboards provide visually intuitive interfaces where users can monitor different metrics, trends and see real-time updates. They help save time and increase productivity
+
+The interactive tools like Plotty and Dash provide powerful frameworks for building ineractive dashboards, charts  that represend complex
+data clearly also help making engaging presentations. These tools allow stakeholders exploring datasets on  their own and helping better understanding data
